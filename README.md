@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PEPEDOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hojip-Kim&show_icons=true&theme=blue-green)
-<a href="https://github.com/Hojip-Kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojip-Kim&layout=compact&theme=nord&hide_border=true" /></a> 
+![PEPEDOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hojip-Kim&show_icons=true&theme=blue-green) <a href="https://github.com/Hojip-Kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojip-Kim&layout=compact&theme=nord&hide_border=true" /></a> 
