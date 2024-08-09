@@ -6,10 +6,6 @@
 
 <br>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hojip-Kim&show_icons=true&theme=blue-green" style="height: 195px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojip-Kim&layout=compact&theme=nord&hide_border=true" style="height: 195px;" />
-</div>
 <div align="center">
     
 ### 🛠 Main Languages and Tools
@@ -44,3 +40,8 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hojip-Kim&show_icons=true&theme=blue-green" style="height: 195px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojip-Kim&layout=compact&theme=nord&hide_border=true" style="height: 195px;" />
+</div>
