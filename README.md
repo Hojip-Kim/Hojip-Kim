@@ -1,7 +1,7 @@
-<img align=center src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
-
 <div align="center">
-<a align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=40&duration=2500&pause=1000&color=808080&vCenter=true&random=false&width=700&height=100&lines=Hohome's+tech++GitHub+page "Typing SVG" /></a>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26CD67&width=435&lines=I'm+Hojip-Kim.;Experienced+Software+Engineer.;Interested+in++Businessful+Projects.;Welcome+to+my+GitHub+Profile!!)](https://git.io/typing-svg)
+
 </div>
 
 <br>
