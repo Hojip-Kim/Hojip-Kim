@@ -38,9 +38,8 @@
 
 </div>
 
+![Snake animation](https://github.com/Hojip-kim/Hojip-Kim/blob/output/snake.svg)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Hojip-Kim&show_icons=true&theme=blue-green" style="height: 195px; max-width: 49%; margin-right: 1%;" />
