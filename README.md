@@ -38,7 +38,8 @@
 
 </div>
 
-![Snake animation](https://github.com/Hojip-Kim/Hojip-Kim/raw/output/snake.svg)
+![Snake animation](https://github.com/Hojip-Kim/Hojip-Kim/raw/output/snake.svg?sanitize=true)
+
 
 
 
