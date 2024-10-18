@@ -38,10 +38,6 @@
 
 </div>
 
-<div align="center">
-<img src="https://github.com/Hojip-Kim/Hojip-Kim/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
@@ -49,4 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojip-Kim&layout=compact&theme=nord&hide_border=true" style="height: 195px; max-width: 49%;" />
 </div>
 
-
+<div align="center">
+<img src="https://github.com/Hojip-Kim/Hojip-Kim/blob/output/github-contribution-grid-snake.svg"/>
+</div>
