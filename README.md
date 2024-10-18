@@ -38,7 +38,8 @@
 
 </div>
 
-![Snake animation](https://github.com/Hojip-kim/Hojip-Kim/blob/output/snake.svg)
+![Snake animation](https://github.com/Hojip-Kim/Hojip-Kim/raw/output/snake.svg)
+
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
