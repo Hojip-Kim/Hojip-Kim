@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # 매일 0시에 실행
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"  # 매일 자정에 실행
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@master
         with:
-          github_user_name: Hojip-Kim
+          github_user_name: Hojip-Kim
           outputs: dist/snake.svg
 
-      - name: Push Snake Animation to GitHub
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push Snake Animation to the output branch
+        uses: ad-m/github-push-action@master
         with:
+          branch: output
+          force: true
+          directory: dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
