@@ -1,6 +1,6 @@
 # 👋 안녕하세요! 저는 김호집입니다
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26CD67&width=500&lines=Backend+Software+Engineer;Full-Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26CD67&width=500&lines=Backend+Software+Engineer;DevOps+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
